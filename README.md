@@ -51,7 +51,7 @@ Esta aplicação foi uma grande e excelente oportunidade para eu aprender bem so
 
 - Aqui está
 
-    <blockquote class="imgur-embed-pub" lang="en" data-id="vwKfP95"><a href="//imgur.com/vwKfP95">mylayout</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    ![Alt text](/ui-clone-twitter.gif)
 
 
 <a id="como-usar"></a>
